@@ -1,0 +1,56 @@
+{
+    "app": {
+        "title": "Home"
+    },
+
+    "errors": {
+        "required": "The field {field} is required",
+        "noFile": "The file {file} does not exist"
+    },
+
+    "components": {
+        "playersOnline": {
+            "serverOffline": "Server offline",
+            "players": "Players online"
+        }
+    },
+
+    "pages": {
+        "index": {
+            "og": {
+                "subtitle": "The best FiveM webpanel"
+            },
+
+            "button": {
+                "login": "Login via UCP",
+                "play": "Play now"
+            },
+
+            "sections": {
+                "hero": "Start",
+                "project": "Project",
+                "features": "Features",
+                "whitelist": "Whitelist",
+                "faq": "FAQ"
+            },
+
+            "hero": {
+                "headerNormal": "Unlimited",
+                "headerColored": ".WTF",
+                "headerSubtitle": "Discover a vibrant world full of possibilities and design your character according to your ideas."
+            },
+
+            "project": {
+                "headerNormal": "The",
+                "headerColored": "PROJECT",
+                "headerSubtitle": "We are more than just an ordinary game server - here you can expect a unique and authentic role-playing experience.",
+
+                "title-1": "Your experience",
+                "text-1": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+
+                "title-2": "Our goal",
+                "text-2": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+            }
+        }
+    }
+}
